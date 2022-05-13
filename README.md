@@ -65,12 +65,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-npm install
-npm run dev
-composer install 
-php artisan storage:link
+npm install.
+npm run dev.
+composer install. 
+php artisan storage:link.
 
-dans le fichier guest.blade.php ==> rajouter la ligne suivante : <base href="/public">
+dans le fichier guest.blade.php ==> rajouter la ligne suivante : <base href="/public">.
 
 
 
