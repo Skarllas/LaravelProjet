@@ -70,7 +70,7 @@ npm run dev.
 composer install. 
 php artisan storage:link.
 
-dans le fichier guest.blade.php ==> rajouter la ligne suivante : <base href="/public">.
+dans le fichier guest.blade.php ==> rajouter la ligne suivante : base href="/public".
 
 
 
